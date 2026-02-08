@@ -1,0 +1,66 @@
+{
+  "val": [
+    {
+      "target": "computation_pout_C_ISEN_EFF_TOT2TOT",
+      "R2": 0.7428985865904315,
+      "MAE": 0.006282567063730523
+    },
+    {
+      "target": "computation_pout_C_POLY_EFF_TOT2TOT",
+      "R2": 0.7328295343944142,
+      "MAE": 0.005869564167379147
+    },
+    {
+      "target": "computation_pout_TOT_PRES_RATIO",
+      "R2": 0.8326927091515015,
+      "MAE": 0.017231994423403816
+    },
+    {
+      "target": "computation_pout_MASS_FLOW",
+      "R2": 0.8345064699399832,
+      "MAE": 0.15048722107615695
+    },
+    {
+      "target": "computation_pout_TORQUE",
+      "R2": 0.878366882599872,
+      "MAE": 13.056591349450903
+    },
+    {
+      "target": "computation_pout_C_PRES_LOSS",
+      "R2": 0.9244611241389301,
+      "MAE": 0.04143736935121473
+    }
+  ],
+  "test": [
+    {
+      "target": "computation_pout_C_ISEN_EFF_TOT2TOT",
+      "R2": 0.7306230687023316,
+      "MAE": 0.006673812524473125
+    },
+    {
+      "target": "computation_pout_C_POLY_EFF_TOT2TOT",
+      "R2": 0.7417945651806191,
+      "MAE": 0.006151034288210105
+    },
+    {
+      "target": "computation_pout_TOT_PRES_RATIO",
+      "R2": 0.8501401596032726,
+      "MAE": 0.016109415586516653
+    },
+    {
+      "target": "computation_pout_MASS_FLOW",
+      "R2": 0.8295087623983695,
+      "MAE": 0.14985686140708776
+    },
+    {
+      "target": "computation_pout_TORQUE",
+      "R2": 0.8694841265906579,
+      "MAE": 12.886573871284863
+    },
+    {
+      "target": "computation_pout_C_PRES_LOSS",
+      "R2": 0.9081476764403666,
+      "MAE": 0.04668355665173643
+    }
+  ]
+}
